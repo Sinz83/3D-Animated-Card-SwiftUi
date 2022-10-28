@@ -48,7 +48,7 @@ struct ContentView: View {
                     
                 )
                         
-                .frame(width: 300, height: 300)
+                .frame(width: 250, height: 200)
                 .background(
                     Gradient(
                         colors: [.yellow, .blue]
